@@ -1,0 +1,6 @@
+Name: Maria
+Age: 21
+Role: Student
+VR Experience: Little to none
+Quote: “VR looks interesting and I’d like to give it a go.”
+About this person: Maria is a university student of biology. She likes games and she is interested in the VR world to maybe apply it in the future in her career.
