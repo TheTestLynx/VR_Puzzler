@@ -20,16 +20,25 @@ The game was tested with users that were not familiar with VR. However, it seeme
 The purpose of the project is to practice design and user testing for a VR application. The purpose of the application itself is to create a simple VR game to introduce VR to beginners. 
 
 **Sketches:**
-Below are some of the sketches that were considered for the creation of this project.
+Below are some of the sketches that were considered for the dungeon on this project.
 
-![Image of dungeon1](https://github.com/NoemiElisa/VR_Puzzler/documentation/sketch1.png)
+![Image of dungeon1](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/sketch1.jpg)
+![Image of dungeon2](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/sketch2.jpg)
+![Image of dungeon3](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/sketch3.jpg)
+![Image of dungeon4](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/sketch4.jpg)
+
+
+Below are some of the sketches that were considered for the start and restart canvas on this project.
+![Image of canvas1](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/sketch6.jpg)
+![Image of canvas2](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/sketch5.jpg)
 
 
 **Persona:**
 
-*Name: * Maria
+![Image of Maria](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/persona.jpg) 
+*Name:* Maria
 
-*Age: * 21
+*Age:* 21
 
 *Role:* Student
 
@@ -81,15 +90,24 @@ It is hard to keep all users happy.
 **Breakdown of final app:**
 At the start of the game there is a UI screen welcoming the users and inviting them to start the game. In the background, there is a sound of crickets that set the mood into a nocturnal environment.
 
-(screenshot=
+
+![Image of start canvas](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/Screenshot_Start_Unselected.png) 
+
 After clicking in the round button, the user is moved inside the dungeon where the orbs start lighting up in a sequence. The music changes to an intriguing sound. The user can then select the orbs. 
 
-(screenshot=
+![Image of start canvas 1](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/Screenshot_Start_Selected.png)
+
+![Image of balls selected 1](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/Screenshot_Balls_Selected1.png)
+
+![Image of balls selected 2](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/Screenshot_Balls_Selected2.png)
+
 If a mistake is made, there is a failing sound to provide the user the feedback that there was a mistake and the sequence starts again.
 
-If the sequence is correct, the user is transported outside the dungeon and another sound is played to indicate success. In here there is a UI screen inviting the user to play again.
+If the sequence is correct, the user is transported outside the dungeon and another sound is played to indicate success. In here there is a UI screen inviting the user to play again and restart the puzzle.
 
-(screenshot=
+![Image of canvas restart 2](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/Screenshot_Restart.png)
+
+![Image of canvas restart 1](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/Screenshot_Restart_Selected.png)
 
 ## Conclusion
 This project was hard to do because it involved other people rather than just the developer. However, thanks to that, one can see the potential issues and create a better quality game.
