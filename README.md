@@ -109,6 +109,10 @@ If the sequence is correct, the user is transported outside the dungeon and anot
 
 ![Image of canvas restart 1](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/Screenshot_Restart_Selected.png)
 
+And finally a video of the game being played:
+
+![Video of game](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/video.gif)
+
 ## Conclusion
 This project was hard to do because it involved other people rather than just the developer. However, thanks to that, one can see the potential issues and create a better quality game.
 
