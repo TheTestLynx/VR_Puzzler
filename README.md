@@ -111,7 +111,8 @@ If the sequence is correct, the user is transported outside the dungeon and anot
 
 And finally a video of the game being played:
 
-[![Watch the video](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/Screenshot_Balls_Selected2.png)](https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/video.mp4)
+<video src="https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/video.mp4" poster="https://github.com/NoemiElisa/VR_Puzzler/blob/master/documentation/Screenshot_Balls_Selected2.png" width="320" height="200" controls preload></video>
+
 
 ## Conclusion
 This project was hard to do because it involved other people rather than just the developer. However, thanks to that, one can see the potential issues and create a better quality game.
